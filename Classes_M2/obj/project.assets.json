@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Travaux C#\\Classes_M1\\Classes_M1\\Classes_M1.csproj",
+      "projectUniqueName": "C:\\Travaux C#\\Classes_M1\\Classes_M2\\Classes_M1.csproj",
       "projectName": "Classes_M1",
-      "projectPath": "C:\\Travaux C#\\Classes_M1\\Classes_M1\\Classes_M1.csproj",
+      "projectPath": "C:\\Travaux C#\\Classes_M1\\Classes_M2\\Classes_M1.csproj",
       "packagesPath": "C:\\Users\\abdou\\.nuget\\packages\\",
-      "outputPath": "C:\\Travaux C#\\Classes_M1\\Classes_M1\\obj\\",
+      "outputPath": "C:\\Travaux C#\\Classes_M1\\Classes_M2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
