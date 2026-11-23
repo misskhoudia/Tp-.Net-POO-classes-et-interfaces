@@ -1,0 +1,17 @@
+C:\Travaux C#\Classes_M1\Classes_M3\bin\Debug\net11.0\Classes_M1.exe
+C:\Travaux C#\Classes_M1\Classes_M3\bin\Debug\net11.0\Classes_M1.deps.json
+C:\Travaux C#\Classes_M1\Classes_M3\bin\Debug\net11.0\Classes_M1.runtimeconfig.json
+C:\Travaux C#\Classes_M1\Classes_M3\bin\Debug\net11.0\Classes_M1.runtimeconfig.dev.json
+C:\Travaux C#\Classes_M1\Classes_M3\bin\Debug\net11.0\Classes_M1.dll
+C:\Travaux C#\Classes_M1\Classes_M3\bin\Debug\net11.0\Classes_M1.pdb
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\Classes_M1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\Classes_M1.AssemblyInfoInputs.cache
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\Classes_M1.AssemblyInfo.cs
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\Classes_M1.csproj.CoreCompileInputs.cache
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\Classes_M1.sourcelink.json
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\Classes_M1.dll
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\refint\Classes_M1.dll
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\Classes_M1.pdb
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\Classes_M1.genruntimeconfig.cache
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\ref\Classes_M1.dll
+C:\Travaux C#\Classes_M1\Classes_M3\obj\Debug\net11.0\Classes_M1.csproj.Up2Date
